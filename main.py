@@ -28,6 +28,5 @@ def saving_annual_summary(
     return saving_summary
     
 
-
 if __name__ == "__main__":
     print(saving_annual_summary(400.00,4.01,12000.00))
